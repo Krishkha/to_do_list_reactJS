@@ -21,7 +21,7 @@ const Navbar = ({ logo }) => {
 
         {/* Links */}
         <div className="flex space-x-6">
-          <Link to="/" className={navLinkStyle("/")}>
+          <Link to="/to_do_list_reactJS/" className={navLinkStyle("/")}>
             Home
           </Link>
           <Link to="/about" className={navLinkStyle("/about")}>

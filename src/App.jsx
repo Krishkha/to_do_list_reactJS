@@ -13,7 +13,7 @@ const App = () => {
 
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/to_do_list_reactJS",
       element: (
         <>
           <Navbar logo={"myTask"} />
